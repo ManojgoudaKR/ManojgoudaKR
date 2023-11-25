@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Manojgouda Rabbanagoudra
 ================================================================================================================================================
 
-<h3 align="center">I am a final-year undergraduate student majoring in Electronics and Communication Engineering at KLE Technological University - Hubli. Ranked among the top 20 coders in the GeeksforGeeks chapter at KLE Technological University - Hubli GFG - Profile and holds a 3-star rating on Leetcode Leetcode - Profile. Passionate about problem-solving in data structures and algorithms and working on new technologies. Interested in the software development field and wish to pursue my career in the same.</h3>
+<h3 align="center">I am a final-year undergraduate student majoring in Electronics and Communication Engineering at KLE Technological University - Hubli. Ranked among the top 20 coders in the GeeksforGeeks chapter at KLE Technological University and holds a 3-star rating on Leetcode. Passionate about problem-solving in data structures and algorithms and working on new technologies. Interested in the software development field and wish to pursue my career in the same.</h3>
 
 - 🌱 I’m currently learning **MERN stack, Angular**
 
